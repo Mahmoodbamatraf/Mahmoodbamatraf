@@ -143,48 +143,6 @@
 
 ---
 
-### 📊 GitHub Impact
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Mahmoodbamatraf">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mahmoodbamatraf&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" alt="Mahmood's GitHub Stats">
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Mahmoodbamatraf?tab=repositories">
-        <img src="https://streak-stats.demolab.com?user=Mahmoodbamatraf&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution Streak">
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Quantified Impact
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/github/followers/Mahmoodbamatraf?label=Followers&color=10b981&style=for-the-badge">
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/github/stars/Mahmoodbamatraf?label=Total%20Stars&color=38bdf8&style=for-the-badge">
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Public%20Repos-9-818cf8?style=for-the-badge">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoodbamatraf&theme=github_dark" alt="GitHub Profile Summary">
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🌐 Strategic Presence & Connect
 
 <p align="center">
