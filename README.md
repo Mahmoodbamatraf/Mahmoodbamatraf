@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Mahmood Saeed Bamatraf | AI Engineer & Head of AI</h1>
+<h1 align="center"> Mahmood Saeed Bamatraf | AI Engineer & Head of AI</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2900&pause=900&color=38BCF7&center=true&width=530&lines=AI+Engineer+%26+Data+Scientist;Co-Founder+%26+Head+of+AI+%40+ASAAS-AI;Multi-Agent+Architect+(CrewAI);Production-Ready+LLMs+%26+RAG;Deep+Learning+%26+Computer+Vision" alt="Typing SVG" />
