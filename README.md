@@ -8,7 +8,7 @@
 <br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-prologue-dark.svg"><img alt="I. Prologue" src="assets/h-prologue-light.svg" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/prologue-dark.svg"><img alt="About Mahmood — 12+ solutions delivered, 4.00 GPA, 10+ production systems" src="assets/prologue-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/prologue-dark.svg"><img alt="About Mahmood — 12+ solutions delivered, 100+ minds mentored, 10+ production systems" src="assets/prologue-light.svg" width="100%"></picture>
 
 <br>
 <br>
